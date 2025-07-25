@@ -1,6 +1,0 @@
-title: "Orchestra AI Support Assistant"
-emoji: "🤖"
-colorFrom: purple
-colorTo: blue
-sdk: gradio
-app_file: app.py
